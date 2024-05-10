@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Nipun Lakshan</h1>
-<h3 align="center">A passionate full-stack developer from Sri Lanka</h3>
+<h1 align="center">Hi there 👋</h1>
+<h3 align="center">Welcome to my github profile</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nipunlakshank&label=Profile%20views&color=0e75b6&style=flat" alt="nipunlakshank" /> </p>
 
