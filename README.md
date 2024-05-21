@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **NerdPHP - An object oriented PHP framework**
 
-- 🌱 I’m currently learning **Django, Express**
+- 🌱 I’m currently learning **Go...**
 
 - 📫 How to reach me **nipunlakshankumara@gmail.com**
 
